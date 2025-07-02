@@ -16,8 +16,6 @@ Interactive slicers for deep-dive analysis
 Clean, professional design using consistent themes and styles
 
 
-Sample screenshots of the final dashboard (optional, you can add these later if you wish)
-
 🛠️ Skills Used
 Power BI
 
